@@ -1,0 +1,15 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1 {
+    font-size: large;
+    color: seagreen
+}
+
+li {
+    font-weight: lighter;
+    list-style: square;
+    color: red;
+}
